@@ -1,0 +1,8 @@
+# Создаем список файлов для игнорирования
+tmp/
+*.DS_Store
+Thumbs.db
+index.html_old
+*.html_old
+NeuroStartUp.png_backup
+*.png_backup
